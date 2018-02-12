@@ -1,3 +1,4 @@
-This is the first txt file for learn gita
-the second txt 
+This is the first txt file for learn git
+the second txt
+the third txt
 
